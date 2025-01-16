@@ -1,0 +1,1 @@
+# Generalized_Hand_Gesture_Recognition
